@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1684402912 source:c:\users\dell\desktop\project5\main.cpp
+	<Windows.h>
+	"classes.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1684391232 c:\users\dell\desktop\project5\include\classes.h
+	<iostream>
+	<cmath>
+	<stack>
+	<vector>
+	<algorithm>
+	<windows.h>
+
+1684399485 source:c:\users\dell\desktop\project5\src\classes.cpp
+	"classes.h"
+
